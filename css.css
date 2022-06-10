@@ -1,0 +1,261 @@
+hr{
+    position: relative;
+    top: 7px;
+right: 10px;
+color: gold;
+height: 50px;
+width: 1530px;
+background-color:rgb(229, 175, 39);
+}
+
+.rockstar{
+    position: absolute;
+    top: 80px; 
+ right: 600px;
+ font-size: 55px;
+color: rgb(229, 175, 39);
+font-family: 'Kanit', sans-serif;
+font-style: italic;
+
+
+}
+
+.doza{
+    position: absolute;
+left: 310px;
+top: 4px;
+height: 370px;
+width: 335px;
+
+}
+
+.blk{
+position: absolute;
+top: 5px;
+height: 100px;
+width: 400px;
+right: 1200px;
+}
+
+.energy{
+
+    position: absolute;
+    top: 150px; 
+ right: 310px;
+ font-size: 29px;
+color: rgb(229, 175, 39);
+font-family:'Kanit', sans-serif;
+font-style: italic;
+
+}
+
+.Acasa{
+position: relative;
+bottom:189px;
+right: 50px;
+color:rgb(229, 175, 39) ;
+font-size: 21px;
+background-color: black;
+font-family: 'Kanit', sans-serif;
+left: 150px;
+}
+.Portofoliu{
+    position: relative;
+    bottom:189px;
+    right: 50px;
+    color:rgb(229, 175, 39) ;
+    font-size: 20px;
+    background-color: black;
+    font-family: 'Kanit', sans-serif;
+    left: 150px;
+}
+
+.Regulamente{
+
+    position: relative;
+    bottom:189px;
+    right: 50px;
+    color:rgb(229, 175, 39) ;
+    font-size: 20px;
+    background-color: black;
+    font-family: 'Kanit', sans-serif;
+    left: 151px;
+
+}
+
+.Contact{
+    position: relative;
+    bottom:189px;
+    right: 50px;
+    color:rgb(229, 175, 39) ;
+    font-size: 20px;
+    background-color: black;
+    font-family: 'Kanit', sans-serif;
+    left: 153px;
+}
+
+
+.ig{
+    position: absolute;
+    right: 270px;
+bottom: 10px;
+top: 60px;
+height: 50px;
+width: 180px;
+
+
+
+}
+
+.zi{
+    position: absolute;
+    right:400px;
+color: white;
+text-align: center;
+bottom: 150px;
+font-family:'Kanit', sans-serif;
+font-style: italic;
+font-size: 45px;
+
+}
+
+.arr{
+position: absolute;
+right: 10px;
+bottom: 10px;
+top: 500px;
+right: 200px;
+height: 300px;
+width: 300px;
+
+
+}
+.doza1{
+position: absolute;
+bottom:10px;
+top: 800px;
+left: 450px;
+height: 296px;
+width: 110px;
+
+}
+
+.doza2{
+
+    position: absolute;
+    bottom:10px;
+    top: 805px;
+    left: 600px;
+    height: 280px;
+    width: 110px;
+
+
+
+}
+
+.doza3{
+    position: absolute;
+    bottom:10px;
+    top: 802px;
+    left: 750px;
+    height: 285px;
+    width: 110px;
+
+}
+
+.doza4{
+    position: absolute;
+    bottom:10px;
+    top: 802px;
+    left: 890px;
+    height: 272px;
+    width: 110px;
+
+
+}
+
+.i1{
+position: absolute;
+bottom: 60px;
+top:850px;
+left: 14px;
+font-size: 15px;
+
+color: darkgoldenrod;
+font-family: 'Kanit', sans-serif;
+font-style: italic;
+
+
+
+}
+
+.i2{
+    position: absolute;
+    bottom: 60px;
+    top:890px;
+    left: 14px;
+    font-size: 15px;
+    color: darkgoldenrod;
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+
+}
+.i3{
+    position: absolute;
+    bottom: 60px;
+    top: 930px;
+    left: 4px;
+    font-size: 15px;
+    color: darkgoldenrod;
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+
+
+}
+
+.i4{
+position: absolute;
+right: 20px;
+top: 850px;
+text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+    font-size: 41px
+
+}
+
+.pct{
+position: absolute;
+top: 1500px;
+
+
+}
+.rrk{
+position: absolute;
+text-align: center;
+top: 1180px;
+left: 570px;
+    font-size: 29px;
+    color: rgb(255, 255, 255);
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+
+
+}
+.llg{
+position: absolute;
+top: 1300px;
+height: 120px;
+width: 130px;
+left: 720px;
+}
+
+.llg2{
+position: absolute;
+top: 10px;
+left: 5px;
+
+height: 150px;
+width: 150px;
+}
